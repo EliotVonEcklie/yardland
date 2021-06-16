@@ -22,4 +22,4 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
